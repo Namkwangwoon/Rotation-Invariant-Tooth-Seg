@@ -1,0 +1,15 @@
+__pycache__
+
+preprocessed_data*/
+test_input*/
+checkpoints*/
+runs*/
+data/
+GT/
+noise/
+
+*.obj
+*.stl
+*.png
+*.ply
+*.zip

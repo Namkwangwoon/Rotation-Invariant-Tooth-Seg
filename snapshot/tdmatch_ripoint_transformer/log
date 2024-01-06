@@ -1,0 +1,16 @@
+#parameters 10.102531 M
+train Epoch: 1 [  10/20642] loss:5.05	c_loss:1.16	f_loss:3.89	o_loss:0.00	PIR:0.01	IR:0.13	
+train Epoch: 1 [  20/20642] loss:4.91	c_loss:1.09	f_loss:3.81	o_loss:0.00	PIR:0.01	IR:0.09	
+train Epoch: 1 [  30/20642] loss:4.83	c_loss:1.07	f_loss:3.76	o_loss:0.00	PIR:0.00	IR:0.06	
+train Epoch: 1 [  40/20642] loss:4.81	c_loss:1.06	f_loss:3.75	o_loss:0.00	PIR:0.00	IR:0.04	
+train Epoch: 1 [  50/20642] loss:4.79	c_loss:1.05	f_loss:3.74	o_loss:0.00	PIR:0.01	IR:0.06	
+train Epoch: 1 [  60/20642] loss:4.78	c_loss:1.05	f_loss:3.73	o_loss:0.00	PIR:0.01	IR:0.06	
+train Epoch: 1 [  70/20642] loss:4.77	c_loss:1.04	f_loss:3.73	o_loss:0.00	PIR:0.01	IR:0.08	
+train Epoch: 1 [  80/20642] loss:4.77	c_loss:1.04	f_loss:3.73	o_loss:0.00	PIR:0.01	IR:0.07	
+#parameters 10.102531 M
+#parameters 10.102531 M
+#parameters 10.102531 M
+#parameters 10.102531 M
+#parameters 10.102531 M
+#parameters 10.102531 M
+#parameters 10.102531 M
