@@ -13,3 +13,5 @@ noise/
 *.png
 *.ply
 *.zip
+
+*axes*
