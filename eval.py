@@ -18,7 +18,7 @@ import argparse
 from dataset.tdmatch import DentalMeshDataset
 from torch.utils.data import DataLoader
 
-from evaluation import cal_metric
+from lib.evaluation import cal_metric
 
 palet = np.array([
     [255,153,153],
