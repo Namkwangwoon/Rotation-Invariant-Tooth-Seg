@@ -104,3 +104,5 @@ python eval.py --model pointtransformer
 # Reference Codes
 - https://github.com/limhoyeon/ToothGroupNetwork.git
 - https://github.com/haoyu94/RoITr.git
+- https://github.com/yanx27/Pointnet_Pointnet2_pytorch
+- https://github.com/POSTECH-CVLab/point-transformer
