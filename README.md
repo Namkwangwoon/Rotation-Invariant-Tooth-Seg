@@ -43,26 +43,27 @@ python inference.py
 ```shell
 python eval.py
 ```
-### IOU
-  $$IoU = {TP \over TP+FP+FN}$$
-### F1
-  - Teeth Segmentation Accuracy(TSA)
-  - $precision={TP \over TP+FP},~~~~recall={TP \over TP+FN}$
+### TSA
+- Teeth Segmentation Accuracy, `'F1'`
+- $precision={TP \over TP+FP},~~~~recall={TP \over TP+FN}$
 
-  $$F1 = 2\times{precision\times recall \over precision+recall}$$
-### ACC
-  - Teeth Identification Rate(TIR)
-  $$ACC={TP+TN \over TP+TN+FP+FN}$$
+  $$TSA = 2\times{precision\times recall \over precision+recall}$$
+  
+### TIR
+- Teeth Identification Rate, `'ACC'`
+  $$TIR={TP+TN \over TP+TN+FP+FN}$$
+  
+### IOU
+- Intersection over Union, `'IOU'`
+  $$IoU = {TP \over TP+FP+FN}$$
 
 # Results
-- Aligned Training
+## Aligned Training
 <img width="638" alt="image" src="https://github.com/Namkwangwoon/Rotation-Invariant-Tooth-Seg/assets/19163372/0b72d6c2-9907-4c46-94ba-70022d340556">
 
 <img width="100%" alt="image" src="https://github.com/Namkwangwoon/Rotation-Invariant-Tooth-Seg/assets/19163372/511ca95a-f3ea-4313-a0b2-aeb32a836934">
 
-
-
-- Random Rotated Training
+## Random Rotated Training
 <img width="634" alt="image" src="https://github.com/Namkwangwoon/Rotation-Invariant-Tooth-Seg/assets/19163372/4b0890b0-72a3-4c73-9391-269fea0c3381">
 
 <img width="100%" alt="image" src="https://github.com/Namkwangwoon/Rotation-Invariant-Tooth-Seg/assets/19163372/6fc9df28-c6a2-46af-9a81-3c801016cd65">
