@@ -6,8 +6,8 @@
 
 
 # Prerequisites
-- torch 1.8.0
-- requirements
+- PyTorch 1.8.0
+- Requirements
   ```shell
   pip install -r requirements.txt
   ```
