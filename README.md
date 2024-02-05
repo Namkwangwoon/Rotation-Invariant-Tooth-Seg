@@ -72,6 +72,9 @@ python eval.py
 
 # Other Methods
 ## PointNet
+> Qi, Charles R., et al. "Pointnet: Deep learning on point sets for 3d classification and segmentation." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
+
+
 ### Training
 ```shell
 python main_pointnet.py \
@@ -87,6 +90,8 @@ python eval.py --model pointnet
 ```
 
 ## Point Transformer
+> Zhao, Hengshuang, et al. "Point transformer." Proceedings of the IEEE/CVF international conference on computer vision. 2021.
+
 ### Training
 ```shell
 python main_pointtransformer.py \
